@@ -28,7 +28,7 @@ Churn-Prediction-using-NLP-and-ML/
 ## Installation and Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/akashavcoewala.git
    cd Churn-Prediction-using-NLP-and-ML
    ```
 2. Install required dependencies:
@@ -55,7 +55,7 @@ The project primarily uses the **XGBoost model** for predicting customer churn. 
 - Enhance the frontend for better user experience.
 
 ## Contributors
-- **Your Name** (your.email@example.com)
+- **Akash Raut** (akashrraut2003@gmail.com)
 
 ## License
 This project is licensed under the MIT License.
