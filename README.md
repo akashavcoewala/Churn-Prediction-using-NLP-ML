@@ -8,7 +8,7 @@ Customer churn, or the loss of customers from a service, significantly impacts a
 - **Programming Language:** Python
 - **Machine Learning Model:** XGBoost
 - **Frontend:** HTML, CSS
-- **Database:** MySQL
+- 
 
 ## Project Structure
 ```
